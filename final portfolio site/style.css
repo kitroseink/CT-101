@@ -1,4 +1,32 @@
 body {
   color: blue;
-  background: red;
+  background: beige;
+}
+
+a {
+  color: blueviolet;
+  font-weight: bold;
+}
+
+a:hover {
+  color: orchid
+}
+
+a:focus {
+  color: hotpink
+}
+
+nav {
+  position: relative;
+  width: 100 px;
+  float: center; 
+}
+
+nav a {
+  position: relative; 
+  padding: 20 px;
+}
+
+img {
+  max-width: 100%;
 }
