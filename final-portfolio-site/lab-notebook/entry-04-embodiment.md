@@ -1,0 +1,52 @@
+# Assignment Info: 
+- For this week's assignment, you will produce a profile of another _**persona/archetype**_
+	- Again, please continue to use the research lab book.
+
+**Your profile ought to include the following:**
+- This time, you will imagine your place in a mixed-reality world (whether a gaming platform, virtual reality, augmented reality, etc.) 
+	- and how you might defend your right to live within your chosen physical and/or virtual world(s)
+- Develop and present an agenda of resistance against the use of bodies in worlds made to sell, convince, or persuade
+- Build a simple flowchart describing how you might practice **algorithmic withdrawal, refusal, or obfuscation**
+# Brainstorming: 
+- persona of a player 
+	- within TTRPGs specifically 
+		- and visual novels?
+	- user research type approach 
+	- talk about how zine TTRPGs resist 
+		- capitalist practices of labor exploitation/over-consumption (by being more accessible, environmentally friendly and community/crowdfunded)
+		- upending traditional (and/or problematic) dynamics in the space
+			- dungeon “master” having full control of the worldbuilding + story creation process –> push towards more collaborative storytelling with players having equal control of the narrative
+- mixed reality world of TTRPGs
+	- online session tools ? (i.e Roll 20, DND Beyond)
+		- character creators
+		- simulated dice
+	- games like baldurs gate (i.e Baldurs Gate 3) & disco elysium?
+		- bringing player-driven narratives to the video game space
+		- demonstrating ideas of autonomy & power imbalances through TTRPG style storytelling
+			- character rolls or makes checks for their actions
+			- narrator as a role in the game / story 
+			- different stats, effects & party system
+	- top down perspective
+		- combining AR/VR tech with game pieces & boards?
+			- research this for later
+		- 3D printing in TTRPG spaces
+- algorithmic withdrawal? obfuscation?
+	- how can the ruleset change problematic practices? 
+		- visually represent how the player would play the TTRPG
+			- i.e develop the ruleset & gameplay loop (representing the algorithm of play)
+				- maybe reference a ruleset contrary to the goals of the games as an example of algorithmic withdrawal
+					- JOD as the DM
+						- gideon, harrow & nona (& alecto) as player characters resisting his narrative
+							- protagonists —> player characters
+	- who dictates the narrative? and can this role be shared equally among players?
+	- what about the idea of story routes in player choice & autonomy?
+	- how do TTRPG players interact with digital and physical technologies to realize their imagined game worlds? 
+		- since TTRPGs take place in the imagination of writing & are brought to life through oral + visual presentation 
+		- TTRPGs as a tool/practice for collaborative workshopping stories 
+			- community practice– brings players & creatives together
+				- social bonding 
+				- development of writing & collaboration skills 
+					- as well as auxiliary skills related to the “game” such as visual art (building game sets & character models, drawing characters etc.)
+				- intersection with activism
+					- Jennifer Estralis eco-punk TTRPG
+					- queer TTRPGs like “Thirsty Sword Lesbians”

@@ -1,0 +1,66 @@
+# Assignment Info
+For this week's assignment, you will produce a **profile of a persona/archetype**. Please continue to use the research lab book. 
+
+**Your profile ought to include the following:**
+- Using analytic tools taught in class and found in the course readings, identify "psychology-based techniques," for instance, tactics and strategies associated in market research
+- Analyze how identity, group formation, cohesion, and interventions toward action and inaction appear in different media and how they work. How has the turn toward digital media affected how creators and viewers consume the techniques and media you chose to explore?
+- Present as a 3-5 mins video (e.g., stop motion, response video, video essay, etc.)
+- Include a 300-500 word statement that includes the following: 
+    - Methods you selected **OR** what you chose to not incorporate or use along with your rationale
+    - What did you find most compelling about translating your research and onto the creation of a persona or an archetype? Think back to CT 11: Digital Media Perspectives when you were asked to think about gender, labor, and persona, what have you learned about what goes into crafting a "personality" or an archetype?
+# Brainstorming: 
+- brief history of the fansona
+- persona of a fan (and creative)
+	- fan artist, fan writer, fan games, fan spaces
+	- *locked tomb series focus*
+# Outline: 
+- what is a fan?
+	- focus on transformational fans (reference Ksenia’s Fan Studies presentation slides)
+- how is locked tomb series fan different than other fans?
+	- any common traits or differences?
+		- common interests/intersections in other fandoms?
+	- demographics particularly important here
+		- hypothesis: 
+			- As the locked tomb series is well-known for it’s representation of queer characters (even the tagline is “lesbian necromancers in space”), I think that there will be a higher percentage of queer fans than other scifi fandoms
+				- particularly with how well known TLT series in the wlw community 
+					- also the author, Tamsyn Muir, identifying as a lesbian herself
+				- also how gender constructions & dynamics are portrayed in the narrative
+					- canon (and fan headcanons thought to be likely canon in the upcoming book) trans & gender non-conforming characters
+					- representation of women (TLT has a large cast but all protagonists are women)
+						- alecto
+						- harrow
+						- gideon
+						- nona
+		- context to research:
+			- queerness in the star trek fandom (another scifi fandom for comparison)
+				- familiar with fem fans shipping kirk + spock, but curious how many of those fans identified as queer themselves
+					- & if there were any intersections with other queer identities (i.e did any men in the star trek fandom ship kirk + spock and/or identify as ga )
+				- connects back to the history of fanzines
+					- important for thinking of self-representation of fan culture
+					- & how development of technology has influenced this
+						- i.e. fan zines, fan animatics (& art), fan fiction, fan games, fan vids/edits, fan playlists 
+- how do fans interact?
+	- through forming fandom spaces online (emphasis here that fans organize their own places to interact)
+		- personal sites
+		- forums
+		- social media
+		- other forms of digital expression
+			- i.e personal example of fan spotify playlists 
+				- [Locked Tomb fan playlist](https://open.spotify.com/playlist/4HV1ojTHiW8a25XCWD9elj?si=59562c4a98ed4ee9)
+					- purposefully chose music in the alt/punk/metal scenes 
+						- specifically fem and queer artists within these genres & subcultures
+					- research any intersections with fandom & punk culture (oftentimes associated with youth culture as commonality?)
+	- through DMs
+		- personal example of Discord Dms with close friend/fellow TLT fan
+	- through meetups & conventions
+- where does fandom live?
+	- digital spaces (i.e. social media & forums)
+		- Reddit
+		- Tumblr
+		- Youtube
+		- Instagram
+		- Discord 
+		- TikTok (not using at this moment)
+	- physical spaces (i.e. conventions & artist alleys)
+		- research any specific fan conventions for scifi?
+		- case study of queer artists like Annalise Jensen (may1234 on TUMBLR) selling TLT fanart at artist alleys
