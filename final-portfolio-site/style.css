@@ -4,16 +4,16 @@ body {
 }
 
 a {
-  color: blueviolet;
+  color: orchid;
   font-weight: bold;
 }
 
 a:hover {
-  color: orchid
+  color: hotpink;
 }
 
 a:focus {
-  color: hotpink
+  color: paleturquoise;
 }
 
 nav {
