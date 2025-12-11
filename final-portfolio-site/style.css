@@ -1,6 +1,8 @@
+/* styling referenced from W3 schools hover, hero-image and other css pages */
+
 body {
   text-align: center;
-  color: blue;
+  color: rgb(0, 0, 255);
   background: beige;
 }
 
@@ -33,7 +35,7 @@ img {
 }
 
 .hero-image {
-  background: url(images/banner.png);
+  background: linear-gradient(rgba(0, 0, 255, 0.5), rgba(0, 0, 255, 0.5)), url(images/banner.png);
   height: 0%;
   background-position: center;
   background-repeat:no-repeat;
