@@ -34,6 +34,69 @@ img {
   max-width: 100%;
 }
 
+
+/* css classes */
+/* .iceberg-regular {
+  font-family: "Iceberg", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+} */
+
+
+.main-font {
+  font-family: "Doto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "ROND" 0;
+}
+
+.main-font-bold {
+  font-family: "Doto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-variation-settings:
+    "ROND" 0;
+}
+
+
+
+.vt323-regular {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.jacquard-12-regular {
+  font-family: "Jacquard 12", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.jacquarda-bastarda-9-regular {
+  font-family: "Jacquarda Bastarda 9", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.astloch-regular {
+  font-family: "Astloch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.astloch-bold {
+  font-family: "Astloch", system-ui;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+
+
 .hero-image {
   background: linear-gradient(rgba(0, 0, 255, 0.5), rgba(0, 0, 255, 0.5)), url(images/banner.png);
   height: 0%;
@@ -53,14 +116,14 @@ img {
 }
 
 .hero-text button {
-border: none;
-outline: 50;
-display: inline-block; 
-padding: 10px 25px; 
-color: blue; 
-background-color: whitesmoke;
-text-align: center;
-cursor: pointer;
+  border: none;
+  outline: 50;
+  display: inline-block; 
+  padding: 10px 25px; 
+  color: blue; 
+  background-color: whitesmoke;
+  text-align: center;
+  cursor: pointer;
 }
 
 .hero-text button:hover {

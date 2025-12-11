@@ -41,11 +41,6 @@ nav a {
   padding: 20 px;
 }
 
-div {
-  /* text-align: center; */
-  display: grid;
-  place-items: center;
-}
 
 img {
   max-width: 50%;
