@@ -44,7 +44,8 @@ img {
 
 
 .main-font {
-  font-family: "Doto", sans-serif;
+  font-family: Doto;
+  /* font-family: "Doto", sans-serif; */
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
@@ -53,7 +54,8 @@ img {
 }
 
 .main-font-bold {
-  font-family: "Doto", sans-serif;
+  font-family: Doto;
+  /* font-family: "Doto", sans-serif; */
   font-optical-sizing: auto;
   font-weight: 900;
   font-style: normal;
@@ -62,8 +64,14 @@ img {
 }
 
 
+@font-face {
+  font-family: Doto;
+  src: url(/assets/fonts/Doto/Doto-VariableFont_ROND,wght.ttf);
+}
 
-.vt323-regular {
+
+
+/* .vt323-regular {
   font-family: "VT323", monospace;
   font-weight: 400;
   font-style: normal;
@@ -92,13 +100,13 @@ img {
   font-family: "Astloch", system-ui;
   font-weight: 700;
   font-style: normal;
-}
+} */
 
 
 
 
 .hero-image {
-  background: linear-gradient(rgba(0, 0, 255, 0.5), rgba(0, 0, 255, 0.5)), url(images/banner.png);
+  background: linear-gradient(rgba(0, 0, 255, 0.5), rgba(0, 0, 255, 0.5)), url(assets/images/banner.png);
   height: 0%;
   background-position: center;
   background-repeat:no-repeat;
