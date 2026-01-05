@@ -42,10 +42,15 @@ img {
   font-style: normal;
 } */
 
+@font-face {
+  font-family: "Doto", sans-serif;
+  src: url(/final-portfolio-site/assets/fonts/Doto/static/Doto-Black.ttf);
+}
+
 
 .main-font {
-  font-family: Doto;
-  /* font-family: "Doto", sans-serif; */
+  /* font-family: Doto; */
+  font-family: "Doto", sans-serif;
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
@@ -54,21 +59,14 @@ img {
 }
 
 .main-font-bold {
-  font-family: Doto;
-  /* font-family: "Doto", sans-serif; */
+  /* font-family: w; */
+  font-family: "Doto", sans-serif;
   font-optical-sizing: auto;
   font-weight: 900;
   font-style: normal;
   font-variation-settings:
     "ROND" 0;
 }
-
-
-@font-face {
-  font-family: Doto;
-  src: url(/assets/fonts/Doto/Doto-VariableFont_ROND,wght.ttf);
-}
-
 
 
 /* .vt323-regular {
@@ -101,7 +99,6 @@ img {
   font-weight: 700;
   font-style: normal;
 } */
-
 
 
 
