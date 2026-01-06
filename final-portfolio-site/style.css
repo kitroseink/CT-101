@@ -42,10 +42,10 @@ img {
   font-style: normal;
 } */
 
-@font-face {
+/* @font-face {
   font-family: "Doto", sans-serif;
   src: url(/final-portfolio-site/assets/fonts/Doto/static/Doto-Black.ttf);
-}
+} */
 
 
 .main-font {
