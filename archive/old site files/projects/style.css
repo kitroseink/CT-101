@@ -35,11 +35,9 @@ nav a {
 }
 
 img {
-  display: block;
-  margin: auto;
-  object-fit: contain;
   max-width: 100%;
 }
+
 
 /* css classes */
 /* .iceberg-regular {
@@ -106,14 +104,10 @@ img {
   font-style: normal;
 } */
 
-.main-page { 
-  display: flex; 
-  flex-direction: column;
-  gap: 20px; 
-}
+
 
 .hero-image {
-  background: linear-gradient(rgba(0, 0, 255, 0.5), rgba(0, 0, 255, 0.5)), url(/assets/images/banner.png);
+  background: linear-gradient(rgba(0, 0, 255, 0.5), rgba(0, 0, 255, 0.5)), url(final-portfolio-site/assets/images/banner.png);
   height: 0%;
   background-position: center;
   background-repeat:no-repeat;
@@ -144,14 +138,4 @@ img {
 .hero-text button:hover {
   background-color: paleturquoise;
   color: hotpink
-}
-
-.column-wrapper {
-  /* display: flex; */
-  column-count: 3;
-  gap: 15px;
-}
-
-.col {
-  flex: 1; 
 }
